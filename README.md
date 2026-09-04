@@ -1,10 +1,4 @@
-# 🔐 Cybersecurity Labs
 
-Welcome to my **Cybersecurity Labs** repository — a collection of my hands-on cybersecurity practice, lab solutions, notes, and learning progress.
-
-This repository documents my journey of building practical cybersecurity skills through **CTF challenges, security labs, Linux/Windows environments, and web security practice**.
-
----
 
 # 👨‍💻 About Me
 
