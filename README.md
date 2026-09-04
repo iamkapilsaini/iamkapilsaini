@@ -200,7 +200,7 @@ I'm documenting my cybersecurity journey across multiple platforms.
 
 Follow me for cybersecurity projects, lab completions, learning updates, and technical posts.
 
-**LinkedIn:** [@iamkapilsaini](https://linkedin.com/iamkapilsaini)
+**LinkedIn:** [@iamkapilsaini](https://linkedin.com/in/iamkapilsaini)
 
 ### 📝 Medium
 
